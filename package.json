@@ -9,7 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "dotenv": "^16.4.1",
-    "starknet": "^5.27.0"
+    "dotenv": "^16.4.5",
+    "next-auth": "^4.24.7",
+    "starknet": "^5.29.0"
   }
 }
